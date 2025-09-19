@@ -1,0 +1,35 @@
+## 📄 .gitignore  
+
+```gitignore
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.h5
+
+# Virtual environment
+env/
+venv/
+ENV/
+*.env
+
+# IDE configs
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dataset and Models
+dataset/
+models/
+
+# Logs
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints/
