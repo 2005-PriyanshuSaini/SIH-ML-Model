@@ -15,11 +15,17 @@ This project implements an **AI-based Smart Dustbin** that uses a trained deep l
 
 ## 📂 Project Structure  
 ├── dataset/ # Training dataset (images organized by class)
+
 ├── models/ # Saved models (.h5 files)
+
 ├── train_model.py # Script to train the model
+
 ├── camera_predict.py # Run real-time camera predictions
+
 ├── requirements.txt # Python dependencies
+
 ├── README.md # Project documentation
+
 └── .gitignore # Ignore unnecessary files in git
 
 ---
