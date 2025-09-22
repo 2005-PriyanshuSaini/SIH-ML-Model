@@ -1,7 +1,7 @@
 # Smart Dustbin with AI-Powered Waste Segregation  
 
 This project implements an **AI-based Smart Dustbin** that uses a trained deep learning model to classify waste (e.g., Plastic, Metal, Paper, Organic, etc.) in real-time using a camera. Once detected, the system sends the container number to a **motor controller (ESP32)**, which directs the waste to the correct bin.  
-
+Used to won inter
 ---
 
 ## ✨ Features  
